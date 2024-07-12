@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raunak
-- 👀 Currently an undergrad student pursuing B.Tech in Computer Science at IIT Jodhpur. Passionate about software development and machine learning.
+- 👀 Currently an undergrad student pursuing B.Tech in Computer Science at IIT Jodhpur. I am passionate about software development and machine learning. I am an avid learner and a part-time football fan.
 - 📫 Mail - raunaksingh0312@gmail.com
 - 😄 Pronouns: He/Him
 
